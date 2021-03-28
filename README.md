@@ -1,21 +1,5 @@
-## About
-Full-stack engineer who loves Kotlin and writes Kotlin
+A full stack engineer.
 
-## Languages
-![Kotlin Language](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)
-![Java Language](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
+[Twitter](https://twitter.com/kotx__)
 
-## Knowledges
-- Ktor
-- Kotlin/JS
-- React
-- MySQL
-- PostgreSQL
-- Ubuntu
-- CentOS
-- GCP
-
-## Skills
-- Object-oriented programming
-- Design methods to ease maintenance such as MVC, MVVM, DDD, etc.
-- Experience in collaborative development
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotlin-Chan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
