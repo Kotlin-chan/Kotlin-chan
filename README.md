@@ -1,10 +1,12 @@
-![Github status card](https://github-readme-stats.vercel.app/api?username=Kotlin-chan&count_private=true&border_radius=0&include_all_commits=true&hide_title=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&count_private=true&border_radius=0&hide_title=true)](https://github.com/Kotlin-chan)
-  
+# Hi ✌
+![Github status card](https://github-readme-stats.vercel.app/api?username=Kotlin-chan&count_private=true&border_radius=0&include_all_commits=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&count_private=true&border_radius=0)](https://github.com/Kotlin-chan)
+---
+## Pinned Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=flylib-reloaded&border_radius=0)](https://github.com/TeamKun/flylib-reloaded)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-chan&repo=get-gradle-project-version&border_radius=0)](https://github.com/Kotlin-chan/get-gradle-project-version)
   
-### Languages and Frameworks
+## Languages and Frameworks
 - Java
 - Kotlin
 - Kotlin/JS
@@ -13,8 +15,9 @@
 - Exposed
 - Coroutine
 
-### Skills
+## Skills
 - Team development
 - Git
 - Docker, Docker compose
 - Linux
+- CI/CD
