@@ -5,7 +5,7 @@
 ## Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=flylib-reloaded&border_radius=0&hide_border=true)](https://github.com/TeamKun/flylib-reloaded)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=CustomGUI&border_radius=0&hide_border=true)](https://github.com/TeamKun/CustomGUI)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=mod-plugin-template&border_radius=0&hide_border=true)](https://github.com/Kotlin-chan/gradle-auto-release/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=mod-plugin-template&border_radius=0&hide_border=true)](https://github.com/TeamKun/mod-plugin-template)
   
 ## Languages and Frameworks
 - Java
