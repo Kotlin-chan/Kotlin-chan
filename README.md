@@ -1,24 +1,14 @@
-![Kotx](https://img.shields.io/static/v1?label=LIFE&message=FAILED&color=critical&style=flat)  
-![Github status card](https://github-readme-stats.vercel.app/api?username=Kotlin-chan&count_private=true&border_radius=0&include_all_commits=true&hide_border=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&count_private=true&border_radius=0&layout=compact&hide_border=true)](https://github.com/Kotlin-chan)
+<h1 align="center">Kotx (ことりん)</h1>
 
-## Works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=flylib-reloaded&border_radius=0&hide_border=true)](https://github.com/TeamKun/flylib-reloaded)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=CustomGUI&border_radius=0&hide_border=true)](https://github.com/TeamKun/CustomGUI)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TeamKun&repo=mod-plugin-template&border_radius=0&hide_border=true)](https://github.com/TeamKun/mod-plugin-template)
-  
-## Languages and Frameworks
+<p align="center">A 17-year-old backend engineer writing Java and Kotlin.</p>
+
+<div align="center">
+    <a href="https://twitter.com/kotx__"><img src="https://img.shields.io/static/v1?label=Twitter&message=Kotx__&style=flat-square&color=orange" alt="twitter"></a>
+</div>
+
+## 📚 Skills
 - Java
 - Kotlin
-- Kotlin/JS
-- Javascript
-- Ktor
-- Exposed
-- Coroutine
-
-## Skills
-- Team development
-- Git
-- Docker, Docker compose
-- Linux
-- CI/CD
+- UNIX
+- Docker, Compose
+- Team Development
