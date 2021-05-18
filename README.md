@@ -6,7 +6,7 @@
     <a href="https://twitter.com/kotx__"><img src="https://img.shields.io/static/v1?label=Twitter&message=Kotx__&style=flat-square&color=orange" alt="twitter"></a>
     <a><img src="https://img.shields.io/static/v1?label=Life&message=Failed!!&style=flat-square&color=critical" alt="?"></a>
     <br>
-    <a><img src="https://github-readme-stats.vercel.app/api?username=Kotlin-Chan&hide=contribs,prs,stars,issues&count_private=true&show_icons=true&hide_border=true"><a/>
+    <a><img src="https://github-readme-stats.vercel.app/api?username=Kotlin-Chan&count_private=true&show_icons=true&hide_border=true"><a/>
 </div>
 
 <div align="center">
