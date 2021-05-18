@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there!</b></h1>
+<h1 align="center"><img style="object-fit:cover" width="24px" height="24px" src="https://user-images.githubusercontent.com/34242962/118581820-388ee680-b7cd-11eb-87cc-1f7c38df2559.png">   <b>Hi there!</b></h1>
 
 <p align="center">A 17-year-old backend engineer writing Java and Kotlin for 6 years.</p>
 
