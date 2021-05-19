@@ -11,5 +11,5 @@
 
 <div align="center">
     <h2>📚 Skills</h2>
-    <p>Java, Kotlin, UNIX, Docker, Docker-Compose, Team development</p>
+    <p>Java, Kotlin, Ktor, UNIX, Docker, Docker-Compose, Team development</p>
 </div>
