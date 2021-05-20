@@ -35,8 +35,8 @@ Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, D
 2. Wait response (may take a day or more)
 3. Execute.
 if (you.want == request){
-    payMoney(me, calcuratePrice(you.want))
-    me.doRequest(you)
+    you.pay(me, calcuratePrice(you.want))
+    me.handleRequest(you)
 } else {
     consultation(me)
 }
