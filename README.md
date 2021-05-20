@@ -32,9 +32,9 @@ Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, D
 
 ```kotlin
 1. Contact us on Twitter
-2. Wait response (may take a day or more)
-3. Execute.
-if (you.want == request){
+2. Wait for response (may take a day or more)
+3. Execute below.
+if (you.want == WantType.REQUEST){
     you.pay(me, calcuratePrice(you.want))
     me.handleRequest(you)
 } else {
