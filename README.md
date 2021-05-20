@@ -16,7 +16,7 @@
 
 
 ## ✨ **Features**
-- Full support Java and Kotlin.
+- Full support of Java and Kotlin.
 - Knowledge of networking, web
 - Experience in project development using UNIX as a production environment
 - Docker and Docker-Compose
@@ -31,7 +31,7 @@ Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, D
 ## ⚡ **Quickstart**
 
 ```kotlin
-1. Contact us on Twitter
+1. Contact me on Twitter
 2. Wait for response (may take a day or more)
 3. Execute below.
 if (you.want == WantType.REQUEST){
