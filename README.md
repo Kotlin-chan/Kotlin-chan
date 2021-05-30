@@ -12,7 +12,7 @@
     <a href="https://twitter.com/kotx__"><img src="https://img.shields.io/static/v1?label=Twitter&message=@kotx__&style=flat-square&color=green" alt="twitter"></a>
 </div>
 
-<p align="center">⚠️ <b>I sleep a lot, so I may not be able to respond for a while. Please understand.</b></p>
+<p align="center">⚠️ <b>Please check the pin for the works.</b></p>
 
 
 ## ✨ **Features**
