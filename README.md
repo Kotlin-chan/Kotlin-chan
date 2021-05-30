@@ -16,6 +16,10 @@
 
 
 ## ✨ **Features**
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Kotlin-chan&count_private=true&theme=dark&show_icons=true&hide_border=true&border_radius=0&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&layout=compact&theme=dark&hide_border=true&border_radius=0&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
+
 - Full support of Java and Kotlin.
 - Knowledge of networking, web
 - Experience in project development using UNIX as a production environment
