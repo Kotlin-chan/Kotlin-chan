@@ -31,23 +31,6 @@
 
 Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React(kotlin-js)
 
-
-## ⚡ **Quickstart**
-
-```kotlin
-1. Contact me on Twitter
-2. Wait for response (may take a day or more)
-3. Execute below.
-if (you.want == WantType.REQUEST){
-    you.pay(me, calcuratePrice(you.want))
-    me.handleRequest(you)
-} else {
-    consultation(me)
-}
-```
-
----
-
 ## 📝 Dependencies
 
 - [Kotlin](https://kotlinlang.org)
