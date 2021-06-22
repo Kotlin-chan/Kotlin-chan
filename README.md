@@ -26,7 +26,7 @@
 - Full support of Java and Kotlin.
 - Knowledge of networking, web
 - Experience in project development using UNIX as a production environment
-- Docker and Docker-Compose
+- Virtualization tech
 - Team development
 - Sleep like a log
 
