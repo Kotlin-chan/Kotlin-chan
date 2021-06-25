@@ -25,6 +25,7 @@
 
 - Full support of Java and Kotlin.
 - Knowledge of networking, web
+- 0day, CTF, Security knowledge
 - Experience in project development using Linux as a production environment
 - Virtualization tech
 - Team development
