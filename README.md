@@ -25,7 +25,7 @@
 
 - Full support of Java and Kotlin.
 - Knowledge of networking, web
-- Experience in project development using Ubuntu, CentOS as a production environment
+- Experience in project development using Linux as a production environment
 - Virtualization tech
 - Team development
 - Sleep like a log
