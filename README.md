@@ -23,19 +23,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&layout=compact&theme=dark&hide_border=true&border_radius=0&hide=shell"></a>
 </div>
 
-- Full support of Java and Kotlin.
-- Knowledge of networking, web
-- 0day, CTF, Security knowledge
-- Experience in project development using Linux as a production environment
-- Virtualization tech
-- Team development
-- Sleep like a log
+- Java and Kotlin.
+- Networking and Web knowledge
+- Security(0day, CTF) knowledge
+- Experience developing in a team
 
 👍 **Frameworks**
 
 Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React(kotlin-js)
-
-## 📝 Dependencies
-
-- [Kotlin](https://kotlinlang.org)
-- [JetBrains IDE](https://www.jetbrains.com/products/#type=ide)
