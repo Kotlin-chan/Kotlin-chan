@@ -3,7 +3,7 @@
     <h1><b>Hello ✌️</b></h1>
 </div>
 
-<p align="center">A 17-year-old backend engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
+<p align="center">A backend engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.0&style=flat-square&color=blueviolet" alt="version">
@@ -28,6 +28,6 @@
 - Security(0day, CTF) knowledge
 - Experience developing in a team
 
-👍 **Frameworks**
-
+👍 **Langs, Frameworks**
+Java, Kotlin, JS, TS, Shellscript, SQL
 Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React(kotlin-js)
