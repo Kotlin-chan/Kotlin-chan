@@ -28,6 +28,6 @@
 - Security(0day, CTF) knowledge
 - Experience developing in a team
 
-👍 **Langs, Frameworks**
+👍 **Langs, Frameworks**  
 Java, Kotlin, JS, TS, Shellscript, SQL  
 Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React(kotlin-js)
