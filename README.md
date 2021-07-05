@@ -1,6 +1,6 @@
 <div align="center">
     <img width="100" height="100" src="https://cdn.discordapp.com/emojis/844997234877661184.png" alt="logo">
-    <h1><b>"Hello KotlinChan!"</b></h1>
+    <h1><b>Hello ✌️</b></h1>
 </div>
 
 <p align="center">A 17-year-old backend engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
