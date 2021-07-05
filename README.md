@@ -30,4 +30,4 @@
 
 👍 **Langs, Frameworks**  
 Java, Kotlin, JS, TS, Shellscript, SQL  
-Ktor, Exposed, Coroutine, Project-Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React(kotlin-js)
+Ktor, Exposed, Coroutine, Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React
