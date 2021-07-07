@@ -23,7 +23,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotlin-chan&layout=compact&theme=dark&hide_border=true&border_radius=0"></a>
 </div>
 
-- Java and Kotlin.
+- Full support for Java and Kotlin.
 - Networking and Web knowledge
 - Security(0day, CTF) knowledge
 - Experience developing in a team
