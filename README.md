@@ -29,5 +29,5 @@
 - Experience developing in a team
 
 👍 **Langs, Frameworks**  
-Java, Kotlin, JS, TS, Shellscript, SQL  
+Java, Kotlin, JS, Shellscript, SQL  
 Ktor, Exposed, Coroutine, Reactor, RxJava, Bukkit, Spigot, Paper, JDA, Discord4J, React
